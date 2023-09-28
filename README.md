@@ -1,6 +1,6 @@
 # Auto Comentador no Instagram
 
-# Instalação do Anaconda e Jupyter Notebook
+## Instalação do Anaconda e Jupyter Notebook
 
 Se você deseja executar este código Python e outros projetos, é recomendável configurar um ambiente Python com o Anaconda e o Jupyter Notebook. Siga os passos abaixo para fazer a instalação:
 
