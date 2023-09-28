@@ -23,14 +23,16 @@ Se você deseja executar este código Python e outros projetos, é recomendável
 
    - No Anaconda Navigator, vá para a seção "Home".
    - Certifique-se de que você está no ambiente correto.
-   - Clique em "Launch" ao lado de "jupyter" para iniciar o Jupyter Notebook no seu navegador.
-    ![anaconda](https://github.com/CaiqueCast/Auto_Comentar_Instagram/assets/124590909/ae2b0844-c2b9-4301-933b-850b73a7804f)
+   - Clique em "Launch" em "Notebook" para iniciar o Jupyter Notebook no seu navegador.
+    ![anacond](https://github.com/CaiqueCast/Auto_Comentar_Instagram/assets/124590909/916e0ad0-84f8-4eb7-8e11-1ba85e0ffe37)
+
 
 
 5. **Execute Código Python no Jupyter Notebook:**
 
    - Agora, você pode criar um novo notebook ou abrir um existente e começar a executar o código Python interativamente no Jupyter Notebook.
-    ![jupter](https://github.com/CaiqueCast/Auto_Comentar_Instagram/assets/124590909/90d41e45-5ba3-443c-b0e1-08ed5693d227)
+    ![jupiter](https://github.com/CaiqueCast/Auto_Comentar_Instagram/assets/124590909/686a0b8a-d1ff-463d-909b-0158a8b24091)
+
 
 
 ## Descrição do Código
