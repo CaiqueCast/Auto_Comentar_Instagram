@@ -37,7 +37,7 @@ Se você deseja executar este código Python e outros projetos, é recomendável
 
 ## Descrição do Código
 
-- Aqui você encontra como fuinciona o [Código do Comentador](https://github.com/CaiqueCast/Auto_Comentar_Instagram/blob/main/codigo.py).
+- Aqui você encontra como funciona o [Código do Comentador](https://github.com/CaiqueCast/Auto_Comentar_Instagram/blob/main/codigo.py).
 
 Este código em Python utiliza a biblioteca Selenium para automatizar interações no Instagram. Ele realiza as seguintes etapas:
 
